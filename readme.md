@@ -5,11 +5,13 @@
 # Preparation
 
 You need to install the node module and grant permission to execute shell scripts.
+
 How to prepare →　[Node.js Bridgeapp for G29 Wheel](./node-bridge-g29)
 
 # How to run
 
 For macOS, double-click "play-app-mac.command".
+
 For windows OS, double-click "play-app-windows.bat".
 
 # License
