@@ -33,6 +33,9 @@ function init_g29(socket) {
     'wheel-button_share',
     'wheel-button_option',
     'wheel-button_playstation',
+    'shifter-gear',
+    'pedals-gas',
+    'pedals-clutch'
   ];
 
   for (const event of events) {
@@ -52,11 +55,11 @@ function init_g29(socket) {
     },
     function (err) {
       if (err) {
-        console.log('Connecting to G29 failed', err.toString())
-        return
+        console.log('Connecting to G29 failed', err.toString());
+        return;
       }
 
-      console.log('Connecting to G29 succeed', err.toString())
+      console.log('Connecting to G29 succeed');
     }
   );
 }

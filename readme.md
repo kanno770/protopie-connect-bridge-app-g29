@@ -2,6 +2,17 @@
 
 [ProtoPie](https://github.com/ProtoPie) has published a [Node.js App](https://github.com/ProtoPie/protopie-connect-bridge-apps/tree/master/node-bridge-g29) to integrate ProtoPie Connect with G29. This derivative source is for designers. You can launch the [Node.js App](https://github.com/ProtoPie/protopie-connect-bridge-apps/tree/master/node-bridge-g29) in Finder or Explorer by double-click.
 
+# Derivative application for "ProtoPie Connect Bridge Apps".
+
+## Add Point:
+ "play-app-mac.command", "play-app-windows.bat", "npm-run-start.sh"
+
+## Change Point:
+ "index.js"
+
+- Support for pedals
+- Bug fixes
+
 # Preparation
 
 You need to install the node module and grant permission to execute shell scripts.
@@ -16,4 +27,4 @@ For windows OS, double-click "play-app-windows.bat".
 
 # License
 
-Bridge Apps are under Apache 2.0 License, as found in the LICENSE file.
+This software includes the work that is distributed in the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
