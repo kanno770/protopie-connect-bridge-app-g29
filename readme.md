@@ -10,7 +10,7 @@
 ## Change Point:
  "index.js"
 
-- Support for pedals
+- Support for pedal events
 - Bug fixes
 
 # Initial setting
