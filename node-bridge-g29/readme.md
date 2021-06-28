@@ -18,7 +18,7 @@ chmod +x npm-run-start.sh
 
 # Supported events
 
-All Events of wheel, Pedal.
+All Events of wheel & Pedal.
 Visit [g29 document](https://github.com/nightmode/logitech-g29/blob/HEAD/docs/api.md#events) for more information of event parameters
 
 # Publisher of the original code
