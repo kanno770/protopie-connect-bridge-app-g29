@@ -33,7 +33,6 @@ function init_g29(socket) {
     'wheel-button_share',
     'wheel-button_option',
     'wheel-button_playstation',
-    'shifter-gear',
     'pedals-gas',
     'pedals-clutch'
   ];
