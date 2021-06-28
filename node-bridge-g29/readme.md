@@ -2,7 +2,7 @@
 
 > Nodejs based program. You must use node which has version 10.15 over. Please check the version of node by `node --version `
 
-# How to prepare
+# How to set
 
 ## Install node module
 
@@ -18,12 +18,9 @@ chmod +x npm-run-start.sh
 
 # Supported events
 
+All Events of wheel, shifter, Pedal.
 Visit [g29 document](https://github.com/nightmode/logitech-g29/blob/HEAD/docs/api.md#events) for more information of event parameters
 
-- D-Pad Buttons: `wheel-button_circle`, `wheel-button_triangle`, `wheel-button_square` and `wheel-button_x`
-- D-Pad: `wheel-dpad`
-- Whee Turn: `wheel-turn`
-
-# Licenses
+# Publisher of the original code
 
 @ Studio XID
