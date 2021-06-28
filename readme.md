@@ -1,8 +1,8 @@
-# Derivative application for "ProtoPie Connect Bridge Apps".
+# Derivative application for "ProtoPie Connect Bridge Apps"
 
 [ProtoPie](https://github.com/ProtoPie) has published a [Node.js App](https://github.com/ProtoPie/protopie-connect-bridge-apps/tree/master/node-bridge-g29) to integrate ProtoPie Connect with G29. This derivative source is for designers. You can launch the [Node.js App](https://github.com/ProtoPie/protopie-connect-bridge-apps/tree/master/node-bridge-g29) in Finder or Explorer by double-click.
 
-# Derivative application for "ProtoPie Connect Bridge Apps".
+# Difference from the original code
 
 ## Add Point:
  "play-app-mac.command", "play-app-windows.bat", "npm-run-start.sh"
